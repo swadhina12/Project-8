@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://projectproductpage.netlify.app/)
+[LIVE-LINK](https://projectwebdesign.netlify.app/)
 
 - [x] learned about Flexbox
 - [x] learned about Position Elements
